@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="FONT_SCALE" value="1.1666666" />
+    <option name="FONT_SIZE" value="15" />
+  </component>
+</application>

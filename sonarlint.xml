@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.rewe-digital.com" />
+          <token>df98dfcfdfc9df9adf93dfc9df9adf9cdfccdf9bdfcbdf9cdfccdf98df99df9edfc8dfcedfc9df92df9cdf92dfc8df92df9edf9ddf92df9ddf93dfcfdf9cdf9fdf9edf93df98df92df98df9fdfc9dfc9</token>
+          <option name="name" value="SonarQube" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
